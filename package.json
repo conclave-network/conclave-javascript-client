@@ -1,0 +1,23 @@
+{
+  "name": "conclave",
+  "version": "1.0.0",
+  "description": "Official Conclave Javascript client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conclave-network/conclave-javascript-client.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "conclave"
+  ],
+  "author": "Noel O'Donnell",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/conclave-network/conclave-javascript-client/issues"
+  },
+  "homepage": "https://github.com/conclave-network/conclave-javascript-client#readme"
+}
